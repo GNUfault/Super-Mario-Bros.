@@ -21,7 +21,7 @@ You will need theese first:
 Now you will need to get the actual code:
 ```
 git clone --depth=1 https://github.com/GNUfault/Super-Mario-Bros..git
-cd Super-Mario-Bros
+cd Super-Mario-Bros.
 ```
 
 ### NES 6502 Assembler

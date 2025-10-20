@@ -56,7 +56,7 @@ cd fceux
 
 #### Configuring
 ```
-cmake .
+cmake -DCMAKE_CXX_FLAGS="-D__STDC_CONSTANT_MACROS" .
 ```
 
 #### Compiling

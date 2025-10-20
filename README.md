@@ -12,10 +12,10 @@ Super Mario Bros. is a 1985 platform game developed and published by Nintendo fo
 ## Building
 ### Prerequisites
 You will need theese first:
-- 1. Linux based distrobution
-- 2. `git`
-- 3. GNU Toolchain (e.g., `gcc`, `binutils`, `make`.)
-- 5. `cmake`
+- Linux based distrobution
+- `git`
+- GNU Toolchain (e.g., `gcc`, `binutils`, `make`.)
+- `cmake`
 
 ### Cloning
 Now you will need to get the actual code:
